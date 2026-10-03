@@ -1,19 +1,19 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AliJabbar034/vrok/releases/download/v0.5.0/vrok_v0.5.0_windows_amd64.zip",
+            "url": "https://github.com/AliJabbar034/vrok/releases/download/v0.5.1/vrok_v0.5.1_windows_amd64.zip",
             "bin": [
                 "vrok.exe"
             ],
-            "hash": "860c79349da52841513bb066c0500b471fbe9314eebd38c83d77b384ff234191"
+            "hash": "6c7cbfa86a66834d3d80f7b59a1e65b0528eb86b50a5385e59fb4869f96326af"
         },
         "arm64": {
-            "url": "https://github.com/AliJabbar034/vrok/releases/download/v0.5.0/vrok_v0.5.0_windows_arm64.zip",
+            "url": "https://github.com/AliJabbar034/vrok/releases/download/v0.5.1/vrok_v0.5.1_windows_arm64.zip",
             "bin": [
                 "vrok.exe"
             ],
-            "hash": "ca7bb5f6c4ea3dd77987aea4a915a29f61eedddebdb4a4b8477233828299aa2b"
+            "hash": "ddf102e3398ca3dd5d17ad5f15a65c612a92229c5e55fb2e4fb04ff68541acb6"
         }
     },
     "homepage": "https://github.com/AliJabbar034/vrok",
