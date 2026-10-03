@@ -1,0 +1,22 @@
+{
+    "version": "0.4.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/AliJabbar034/vrok/releases/download/v0.4.2/vrok_v0.4.2_windows_amd64.zip",
+            "bin": [
+                "vrok.exe"
+            ],
+            "hash": "7bc35e6f14fbb88761baaee27aae23c725dc197ccbf996b8b018b3894d44ad94"
+        },
+        "arm64": {
+            "url": "https://github.com/AliJabbar034/vrok/releases/download/v0.4.2/vrok_v0.4.2_windows_arm64.zip",
+            "bin": [
+                "vrok.exe"
+            ],
+            "hash": "c2c7827ba12c99bf0c35177a61e03f0534a2fe084f4f5f5322401e8eecfeaa4c"
+        }
+    },
+    "homepage": "https://github.com/AliJabbar034/vrok",
+    "license": "MIT",
+    "description": "Share local files, folders and development servers through temporary URLs"
+}
